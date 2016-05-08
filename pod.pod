@@ -1,4 +1,4 @@
 =head1 Hello World
 
 L<Google|http://www.google.com>
-L<link|javascript:alert(document.cookie)>
+L<link|Z<>javascript:alert(document.cookie)>
