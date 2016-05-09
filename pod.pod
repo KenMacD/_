@@ -2,3 +2,10 @@
 
 L<Google|http://www.google.com>
 L<link|Z<>javascript:alert(document.cookie)>
+
+=begin html
+
+<script>alert(1)</script>
+<a href="javascript:alert(2)">Link</a>
+
+=end html
