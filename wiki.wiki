@@ -1,6 +1,13 @@
+{{uc: abC}}
+
 {{SITENAME}}
+
 {{SERVER}}
+
 {{SERVERNAME}}
+
 {{DIRMARK}}
+
 {{SCRIPTPATH}}
+
 {{CURRENTVERSION}}
