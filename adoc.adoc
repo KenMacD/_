@@ -1,0 +1,17 @@
+Testing
+
+version: {asciidoctor-version}
+
+backend: {backend}
+
+basebackend: {basebackend}
+
+docdir: {docdir}
+
+docfile: {docfile}
+
+outfile: {outfile}
+
+safe-mode-level: {safe-mode-level}
+
+safe-mode-name: {safe-mode-name}
