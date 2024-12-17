@@ -10,3 +10,7 @@ __FORCETOC__
 ===Test 4"><img src=x onerror=alert(1)>===
 
 ===Test 5===
+
+<math>../../../../../../etc/hostname</math>
+
+<math>\input{/etc/hostname}</math>
